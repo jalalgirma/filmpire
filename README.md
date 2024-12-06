@@ -9,20 +9,6 @@
     <img src="src/assets/images/lightLogo.png" alt="Filmpire" width="252" height="85">
   </a>
 
-  <h2 align="center">Filmpire - Jovan Vukić</h2>
-
-  <p align="center">
-    Filmpire - AI Powered Movie App [React.js, Material UI, Alan AI]
-    <br />
-    <a href="https://github.com/jovan-vukic/filmpire"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    <a href="https://filmpire-jovan.netlify.app/">View Demo Site</a>
-    ·
-    <a href="https://github.com/jovan-vukic/filmpire/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/jovan-vukic/filmpire/issues">Request Feature</a>
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -49,8 +35,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://filmpire-jovan.netlify.app/)
 
 Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
@@ -86,9 +70,6 @@ Setup:
 
 1. Get a free TMDB API Key at [https://www.themoviedb.org/](https://www.themoviedb.org/).
 2. Clone the repo:
-   ```sh
-   git clone https://github.com/jovan-vukic/filmpire.git
-   ```
 3. Install NPM packages:
    ```sh
    npm install
@@ -103,15 +84,6 @@ Setup:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-For a full demonstration of all the functionalities of this phenomenal web application check out this [demo site](https://filmpire-jovan.netlify.app/).
-
-_For more detailes regarding TMDB API calls, please refer to the [Documentation](https://developers.themoviedb.org/3/getting-started/introduction)._
-
-See the [open issues](https://github.com/jovan-vukic/filmpire/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -134,26 +106,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.md` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-## Contact
-
-Jovan - [@jovan-vukic](https://github.com/jovan-vukic)
-
-Project Link: [https://github.com/jovan-vukic/filmpire](https://github.com/jovan-vukic/filmpire)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Used resources:
-
-* [The Movie DB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
-* [Alan AI Documentation](https://alan.app/docs/)
-* [MUI Library](https://mui.com/)
-* [JavaScript Mastery](https://www.jsmastery.pro/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
